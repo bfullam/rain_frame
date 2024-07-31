@@ -7,6 +7,7 @@ Head to http://localhost:3000/api
 
 
 **Overview**
+
 RainFrame is a hackathon project that makes deploying decentralized finance (DeFi) strategies simple. By integrating with Farcaster, a decentralized social network, RainFrame lets users deploy RainLang strategies with one click.
 
 
@@ -23,5 +24,6 @@ RainFrame is a hackathon project that makes deploying decentralized finance (DeF
 
 
 **Conclusion**
+
 RainFrame makes DeFi accessible and easy by combining RainLang with Farcaster’s social features. It offers a simple way to deploy and manage DeFi strategies, suitable for everyone.
 
